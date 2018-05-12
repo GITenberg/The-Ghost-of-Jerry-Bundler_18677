@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '8188'
     url: http://www.gutenberg.org/2009/agents/8188
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18677#The-Ghost-of-Jerry-Bundler
 gutenberg_issued: '2006-06-24'
 gutenberg_type: Text
 identifiers:
